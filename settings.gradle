@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        maven {
+            url 'lib'
+        }
+        //mavenLocal()
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'pof-gradle'
+

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 13 22:00:51 HST 2023
+com.oracle.coherence.ce.gradle.plugin-23.03.2-SNAPSHOT-javadoc.jar>=
+com.oracle.coherence.ce.gradle.plugin-23.03.2-SNAPSHOT.jar>=
+com.oracle.coherence.ce.gradle.plugin-23.03.2-SNAPSHOT.pom>=
+com.oracle.coherence.ce.gradle.plugin-23.03.2-SNAPSHOT-sources.jar>=

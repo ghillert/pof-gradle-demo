@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 13 20:03:49 HST 2023
+coherence-23.03.2-SNAPSHOT.jar>=
+coherence-23.03.2-SNAPSHOT.pom>=

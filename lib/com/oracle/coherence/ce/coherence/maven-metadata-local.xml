@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.oracle.coherence.ce</groupId>
+  <artifactId>coherence</artifactId>
+  <versioning>
+    <versions>
+      <version>23.09-SNAPSHOT</version>
+      <version>23.03.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230714060158</lastUpdated>
+  </versioning>
+</metadata>
